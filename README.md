@@ -1,4 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-C:\Users\Lenovo\Desktop\linkedin-clone\kodluyoruzilkrepo\Opera Anlık Görüntü_2023-10-20_172004_github.com.png
+![image](https://github.com/rabiaaaslann/kodluyoruzilkrepo/assets/116019055/ffdd3add-399f-4999-87a8-40732ea71ade)
